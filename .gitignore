@@ -1,0 +1,7 @@
+credentials/
+*.token
+.env
+output/
+__pycache__/
+*.pyc
+visuals/cache/
